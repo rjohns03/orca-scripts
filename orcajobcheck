@@ -853,8 +853,7 @@ for filename in filelist:
                             print("Do orcajobcheck output -p to print current/last geometry.")
                 else:
                     print("Scan completed!")
-
-........................................................................
+#........................................................................
             if jobtype=="sp" or jobtype=="freqsp" and postHF=="unset":
                 if dft=="yes":
                     if engrad=="yes":
